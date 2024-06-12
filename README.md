@@ -5,12 +5,11 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-**Teknologi:**
-  Laravel v5.8  
+
+**Laravel v5.8** 
   
 **Minimal Versi**
   PHP v7.1  
-  Jika Anda mengalami kesalahan atau bug selama instalasi atau penggunaan, kemungkinan disebabkan oleh versi PHP yang tidak didukung.
 
 ### Fitur Utama
 1. **Manajemen Arus Kas:** Memantau dan menganalisis arus kas pribadi untuk mencatat dan mengkategorikan setiap transaksi keuangan, memudahkan pengguna untuk melacak pengeluaran dan pemasukan.
@@ -23,7 +22,7 @@
 1. **Instalasi:**
    - Clone repositori ini ke dalam direktori lokal Anda.
    - Buka terminal dan masuk ke direktori proyek.
-   - Pastikan PHP v^7.4 terinstal.
+   - Pastikan PHP v^7.1 terinstal.
    - Jalankan perintah berikut untuk menginstal dependensi Laravel:
      ```bash
      composer install
