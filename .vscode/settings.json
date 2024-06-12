@@ -1,0 +1,5 @@
+{
+    "php.validate.enable": false,
+    "phpcs.standard": "PSR2",
+    "phpcs.showWarnings": false
+}
