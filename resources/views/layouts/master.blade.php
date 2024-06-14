@@ -93,6 +93,9 @@
     <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
     <script src="{{ asset('admin/js/pages/dashboard.js') }}"></script>
 
+    {{-- Sparkline --}}
+    <script src="{{ asset('https://code.jquery.com/jquery-3.6.0.min.js') }}"></script>
+
     @include('sweetalert::alert')
 
     @yield('addJavascript')

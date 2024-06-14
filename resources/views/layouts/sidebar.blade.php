@@ -1,9 +1,9 @@
 <!-- Main Sidebar Container -->
-<aside class="main-sidebar bg-light-primary elevation-4 ">
+<aside class="main-sidebar sidebar-light-primary bg-light-primary elevation-4 ">
     <!-- Brand Logo -->
     <div>
-        <a href="{{ route('landingpage') }}" class="brand-link">
-            <img src="{{ asset('/img/k.png') }}" alt="AdminLTE Logo" class="brand-image img-circle ">
+        <a class="brand-link">
+            <img src="{{ asset('/img/k.png') }}" class="brand-image img-circle ">
             <span class="brand-text font-weight-light">{{ config('app.name') }}</span>
         </a>
     </div>
@@ -47,7 +47,7 @@
                                 <i class="fas fa-angle-left right"></i>
                             </p>
                         </a>
-                        <ul class="nav nav-treeview bg-light-primary">
+                        <ul class="nav nav-treeview bg-light">
                             <li class="nav-item">
                                 <a href="{{ route('aruskas.index') }}" class="nav-link {{ request()->routeIs('aruskas.index') ? 'active' : '' }}">
                                     <i class="far fa-circle nav-icon"></i>

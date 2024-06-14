@@ -63,7 +63,7 @@
 <body>
     <div class="container">
         <div class="email-wrapper">
-            <img src="https://i.ibb.co/qrKCKfT/k.png" alt="Logo" class="logo">
+            <img src="{{ asset('/img/k.png') }}" alt="Logo" class="logo">
             <h2>Reset Password</h2>
             <p>Anda menerima email ini karena kami menerima permintaan pengaturan ulang kata sandi untuk akun Anda.</p>
             <a href="{{ route('password.show', $token) }}" class="cta-button">Reset Password</a>
