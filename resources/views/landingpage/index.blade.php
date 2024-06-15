@@ -13,7 +13,7 @@
                     <p>
                         Visi dan Misi Kami:
                     </p>
-                    <ul>
+                    <ul class="pt-2" style="text-align: justify;">
                         <li><i class="ri-check-double-line"></i>Saya percaya bahwa kehidupan yang
                             sejahtera dimulai dari pengelolaan keuangan yang cerdas.</li>
                         <li><i class="ri-check-double-line"></i> Visi Kami adalah memberdayakan setiap individu
@@ -21,8 +21,8 @@
                             meningkatkan kualitas hidup.</li>
                     </ul>
                 </div>
-                <div class="col-lg-6 pt-4 pt-lg-0">
-                    <p>
+                <div class="col-lg-6 pt-5 lg-0">
+                    <p style="text-align: justify;">
                         Tentang Keuangan Pribadi - Menata Keuangan untuk Hidup Lebih Baik.
                         kawan setia dalam perjalanan Anda menuju kebebasan
                         finansial. Kami adalah pelopor solusi keuangan yang membawa perubahan positif dalam cara
