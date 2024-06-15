@@ -28,7 +28,7 @@
                         finansial. Kami adalah pelopor solusi keuangan yang membawa perubahan positif dalam cara
                         Anda mengelola dan merencanakan keuangan pribadi.
                     </p>
-                    <a href="#" class="btn-learn-more">Learn More</a>
+                    {{-- <a href="#" class="btn-learn-more">Learn More</a> --}}
                 </div>
             </div>
 
