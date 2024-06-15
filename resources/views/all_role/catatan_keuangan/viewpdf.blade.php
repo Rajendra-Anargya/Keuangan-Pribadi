@@ -77,7 +77,7 @@
 
 <body>
 
-    <img src="{{ asset('img/k.png') }}" alt="Logo Keuangan Pribadi">
+    <img src="{{ asset('img/logo.png') }}" alt="Logo Keuangan Pribadi">
 
     <h2>Laporan Keuangan</h2>
     <p>Tanggal Laporan: <?php echo date('d/m/Y'); ?></p>

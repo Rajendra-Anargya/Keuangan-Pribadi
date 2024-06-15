@@ -11,8 +11,8 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Favicons -->
-    <link href="{{ asset('img/k.png') }}" rel="icon">
-    <link href="{{ asset('img/k.png') }}" rel="apple-touch-icon">
+    <link href="{{ asset('img/logo.png') }}" rel="icon">
+    <link href="{{ asset('img/logo.png') }}" rel="apple-touch-icon">
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>

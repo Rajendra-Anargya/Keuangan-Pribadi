@@ -12,8 +12,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Favicons -->
-    <link href="{{ asset('img/k.png') }}" rel="icon">
-    <link href="{{ asset('img/k.png') }}" rel="apple-touch-icon">
+    <link href="{{ asset('img/logo.png') }}" rel="icon">
+    <link href="{{ asset('img/logo.png') }}" rel="apple-touch-icon">
 
     <!-- Google Font: Source Sans Pro -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">

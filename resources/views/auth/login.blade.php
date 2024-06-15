@@ -14,7 +14,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="text-center my-5">
-                    <img src="{{ asset('img/k.png') }}" alt="logo" width="100">
+                    <img src="{{ asset('img/logo.png') }}" alt="logo" width="100">
                     <h1 class="text-white">{{ config('app.name') }}</h1>
                 </div>
                 <div class="card shadow-lg">
