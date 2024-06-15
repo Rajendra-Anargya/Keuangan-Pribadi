@@ -44,7 +44,7 @@
                     </div>
                 </div>
                 <div class="text-center mt-5 text-muted">
-                    Copyright &copy; {{ date('Y') }} &mdash; Kelompok 3 Gamelab
+                    Copyright &copy; {{ date('Y') }} &mdash;Rajendra Anargya
                 </div>
             </div>
         </div>
