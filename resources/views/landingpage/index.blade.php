@@ -118,9 +118,6 @@
                         Kebebasan finansial ada di ujung jari Anda. untuk hidup yang lebih baik dan
                         keuangan yang lebih teratur!</p>
                 </div>
-                <div class="col-lg-3 cta-btn-container text-center">
-                    <a class="cta-btn align-middle" href="#">Call To Action</a>
-                </div>
             </div>
 
         </div>
