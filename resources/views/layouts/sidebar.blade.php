@@ -3,7 +3,7 @@
     <!-- Brand Logo -->
     <div>
         <a class="brand-link">
-            <img src="{{ asset('/img/k.png') }}" class="brand-image img-circle ">
+            <img src="{{ asset('img/k.png') }}" class="brand-image img-circle ">
             <span class="brand-text font-weight-light">{{ config('app.name') }}</span>
         </a>
     </div>

@@ -11,8 +11,8 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Favicons -->
-    <link href="{{ asset('/img/k.png') }}" rel="icon">
-    <link href="{{ asset('/img/k.png') }}" rel="apple-touch-icon">
+    <link href="{{ asset('img/k.png') }}" rel="icon">
+    <link href="{{ asset('img/k.png') }}" rel="apple-touch-icon">
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
