@@ -14,11 +14,9 @@
                         Visi dan Misi Kami:
                     </p>
                     <ul>
-                        <li><i class="ri-check-double-line"></i>kami percaya bahwa kehidupan yang
-                            sejahtera dimulai dari pengelolaan keuangan yang cerdas. Visi kami adalah memberdayakan
-                            setiap individu untuk mencapai kesejahteraan finansial, membuka pintu akses ke lebih
-                            banyak peluang, dan meningkatkan kualitas hidup.</li>
-                        <li><i class="ri-check-double-line"></i> Visi kami adalah memberdayakan setiap individu
+                        <li><i class="ri-check-double-line"></i>Saya percaya bahwa kehidupan yang
+                            sejahtera dimulai dari pengelolaan keuangan yang cerdas.</li>
+                        <li><i class="ri-check-double-line"></i> Visi Kami adalah memberdayakan setiap individu
                             untuk mencapai kesejahteraan finansial, membuka pintu akses ke lebih banyak peluang, dan
                             meningkatkan kualitas hidup.</li>
                     </ul>
